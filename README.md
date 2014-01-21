@@ -44,3 +44,6 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
+# Credits
+
+Icons by [André Luiz Gollo](http://thenounproject.com/heyandreluiz/)

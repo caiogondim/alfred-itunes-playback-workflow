@@ -1,8 +1,10 @@
 # Alfred iTunes Playback Control
 
 <img
-  src="https://raw.github.com/caiogondim/alfred-itunes-playback-workflow/master/logo.png"
-  alt="Alfred iTunes Playback Control" align="right" width="200px"
+  src="https://raw.github.com/caiogondim/alfred-itunes-playback-workflow/master/img/logo.png"
+  alt="Alfred iTunes Playback Control"
+  align="right"
+  width="200px"
 />
 
 An Aflred.app workflow to toggle repeat and shuffle in iTunes
@@ -17,7 +19,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ## Shuffle
 
 <img
-  src="https://raw.github.com/caiogondim/alfred-itunes-playback-workflow/master/shuffle-screenshot.png"
+  src="https://raw.github.com/caiogondim/alfred-itunes-playback-workflow/master/img/shuffle-screenshot.png"
   alt="Shuffle keyword"
 />
 
@@ -32,7 +34,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ## Repeat
 
 <img
-  src="https://raw.github.com/caiogondim/alfred-itunes-playback-workflow/master/repeat-screenshot.png"
+  src="https://raw.github.com/caiogondim/alfred-itunes-playback-workflow/master/img/repeat-screenshot.png"
   alt="Shuffle keyword"
 />
 

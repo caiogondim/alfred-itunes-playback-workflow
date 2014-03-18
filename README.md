@@ -25,7 +25,7 @@ see a list of commands supported.
   alt="Shuffle keyword"
 />
 
-Toggles the shuffle value between **on** and **off**.
+Set the shuffle value to **Off**, **By Songs**, **By Albums** or **By Groupings**.
 
 
 ## Repeat
@@ -35,7 +35,7 @@ Toggles the shuffle value between **on** and **off**.
   alt="Shuffle keyword"
 />
 
-Toggles the repeat value between **off**, **all** and **one**.
+Set the repeat value to **Off**, **All** or **One**.
 
 
 # Credits

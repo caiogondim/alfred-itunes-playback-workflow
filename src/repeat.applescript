@@ -24,17 +24,15 @@ end getRepeatType
 on setRepeatType(repeatType) -- repeatType is a string: Off/All/One
   set currentValue to my getRepeatType()
   ignoring case
-    if currentValue is not repeatType then
-      tell application "System Events" to tell process "iTunes"'s menu bar 1's menu bar item "Controls"'s menu 1's menu item "Repeat"'s menu 1
-        if repeatType is "all" then
-          perform action "AXPress" of menu item "All"
-        else if repeatType is "one" then
-          perform action "AXPress" of menu item "One"
-        else
-          perform action "AXPress" of menu item "Off"
-        end if
-      end tell
-    end if
+    tell application "System Events" to tell process "iTunes"'s menu bar 1's menu bar item "Controls"'s menu 1's menu item "Repeat"'s menu 1
+      if repeatType is "all" then
+        perform action "AXPress" of menu item "All"
+      else if repeatType is "one" then
+        perform action "AXPress" of menu item "One"
+      else
+        perform action "AXPress" of menu item "Off"
+      end if
+    end tell
   end ignoring
 end setRepeatType
 
